@@ -23,7 +23,7 @@ if (!isset($_SESSION['loggedin'])) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.4.1/css/glide.core.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.4.1/css/glide.theme.css">
     <!-- Custom StyleSheet -->
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="styles/styles.css" />
     <title>ecommerce Website</title>
     <script>
         // Check if the login success message exists and show a popup
