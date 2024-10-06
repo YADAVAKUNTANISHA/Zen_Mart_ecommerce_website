@@ -122,7 +122,7 @@ if (!isset($_SESSION['loggedin'])) {
                                     <a href="product.html" class="hero-btn">SHOP NOW</a>
                                 </div>
                                 <div class="right">
-                                    <img class="img1" src="./images/hero-1.png" alt="">
+                                    <img class="img1" src="./image/hero-1.png" alt="">
                                 </div>
                             </div>
                         </li>
@@ -135,7 +135,7 @@ if (!isset($_SESSION['loggedin'])) {
                                     <a href="product.html" class="hero-btn">SHOP NOW</a>
                                 </div>
                                 <div class="right">
-                                    <img class="img2" src="./images/hero-2.png" alt="">
+                                    <img class="img2" src="./image/hero-2.png" alt="">
                                 </div>
                             </div>
                         </li>
@@ -149,19 +149,19 @@ if (!isset($_SESSION['loggedin'])) {
     <section class="section category">
         <div class="cat-center">
             <div class="cat">
-                <img src="./images/cat3.jpg" alt="" />
+                <img src="./image/cat3.jpg" alt="" />
                 <div>
                     <p>WOMEN'S WEAR</p>
                 </div>
             </div>
             <div class="cat">
-                <img src="./images/cat2.jpg" alt="" />
+                <img src="./image/cat2.jpg" alt="" />
                 <div>
                     <p>ACCESSORIES</p>
                 </div>
             </div>
             <div class="cat">
-                <img src="./images/cat1.jpg" alt="" />
+                <img src="./image/cat1.jpg" alt="" />
                 <div>
                     <p>MEN'S WEAR</p>
                 </div>
@@ -180,7 +180,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-1.jpg" alt="" />
+                        <img src="./image/product-1.jpg" alt="" />
                     </a>
                 </div>
                 <div class="product-info">
@@ -197,7 +197,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="" class="product-thumb">
-                        <img src="./images/product-3.jpg" alt="" />
+                        <img src="./image/product-3.jpg" alt="" />
                     </a>
                     <span class="discount">50%</span>
                 </div>
@@ -216,7 +216,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-2.jpg" alt="" />
+                        <img src="./image/product-2.jpg" alt="" />
                     </a>
                 </div>
                 <div class="product-info">
@@ -233,7 +233,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-4.jpg" alt="" />
+                        <img src="./image/product-4.jpg" alt="" />
                     </a>
                     <span class="discount">50%</span>
                 </div>
@@ -251,7 +251,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-5.jpg" alt="" />
+                        <img src="./image/product-5.jpg" alt="" />
                     </a>
                 </div>
                 <div class="product-info">
@@ -268,7 +268,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-6.jpg" alt="" />
+                        <img src="./image/product-6.jpg" alt="" />
                     </a>
                 </div>
                 <div class="product-info">
@@ -285,7 +285,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-7.jpg" alt="" />
+                        <img src="./image/product-7.jpg" alt="" />
                     </a>
                     <span class="discount">50%</span>
                 </div>
@@ -303,7 +303,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-2.jpg" alt="" />
+                        <img src="./image/product-2.jpg" alt="" />
                     </a>
                 </div>
                 <div class="product-info">
@@ -331,7 +331,7 @@ if (!isset($_SESSION['loggedin'])) {
             <a href="product.html" class="btn btn-1">Discover Now</a>
         </div>
         <div class="right">
-            <img src="./images/banner.png" alt="">
+            <img src="./image/banner.png" alt="">
         </div>
     </section>
 
@@ -350,7 +350,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="" class="product-thumb">
-                        <img src="./images/product-7.jpg" alt="" />
+                        <img src="./image/product-7.jpg" alt="" />
                     </a>
                     <span class="discount">50%</span>
                 </div>
@@ -368,7 +368,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-4.jpg" alt="" />
+                        <img src="./image/product-4.jpg" alt="" />
                     </a>
                 </div>
 
@@ -386,7 +386,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-1.jpg" alt="" />
+                        <img src="./image/product-1.jpg" alt="" />
                     </a>
                     <span class="discount">40%</span>
                 </div>
@@ -404,7 +404,7 @@ if (!isset($_SESSION['loggedin'])) {
             <div class="product-item">
                 <div class="overlay">
                     <a href="productDetails.html" class="product-thumb">
-                        <img src="./images/product-6.jpg" alt="" />
+                        <img src="./image/product-6.jpg" alt="" />
                     </a>
                 </div>
                 <div class="product-info">
